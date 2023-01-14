@@ -1,0 +1,42 @@
+.nav {
+    background-color: white;
+    display: flex;
+    min-height: 70px;
+    border-style: solid none solid none;
+    border-width: 1px;
+    border-color: rgb(232, 231, 231);
+    position: relative;
+}
+
+.nav h1 {
+    margin: auto;
+    background-color: white;
+    font-size: 1.7rem;
+    font-weight: bolder;
+}
+
+.menuBtn {
+    background-color: white;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    font-size: 1.3rem;
+    /* margin-left: 12px;
+    margin-top: 19px; */
+    margin: 19px;
+}
+
+.options {
+    margin: 19px;
+    /* position: absolute; */
+    float: right;
+}
+
+.iconGroup {
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    font-size: 1.5rem;
+}
+
+

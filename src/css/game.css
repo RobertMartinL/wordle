@@ -1,0 +1,28 @@
+.app {
+    justify-content: space-around;
+}
+
+.game {
+    /* background-color: blue; */
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.letterbox {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 1px;
+    align-content: center;
+    padding: 6px;
+    font-size: 1.5em;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(204, 203, 203);
+    margin: 0.2rem;
+}
+
+.wordbar {
+    margin: 2px;
+}
