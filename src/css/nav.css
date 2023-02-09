@@ -5,7 +5,7 @@
     border-style: solid none solid none;
     border-width: 1px;
     border-color: rgb(232, 231, 231);
-    position: relative;
+    justify-content: space-between;
 }
 
 .nav h1 {
@@ -13,30 +13,33 @@
     background-color: white;
     font-size: 1.7rem;
     font-weight: bolder;
+    font-family: 'IBM Plex Serif', serif;
 }
 
 .menuBtn {
     background-color: white;
-    position: absolute;
+    /* position: absolute; */
     height: 30px;
     width: 30px;
     font-size: 1.3rem;
     /* margin-left: 12px;
     margin-top: 19px; */
     margin: 19px;
+    margin-right: 82px;
 }
 
 .options {
     margin: 19px;
     /* position: absolute; */
-    float: right;
+    /* float: right; */
 }
 
 .iconGroup {
     background-color: white;
     height: 30px;
     width: 30px;
-    font-size: 1.5rem;
+    font-size: 1.9rem;
+    margin: 0.1rem;
 }
 
 

@@ -1,0 +1,24 @@
+{
+    "solutions" : [
+        {"word": "jerky", "id": 1},
+        {"word": "mason", "id": 2},
+        {"word": "fatal", "id": 3},
+        {"word": "creek", "id": 4},
+        {"word": "blame", "id": 5},
+        {"word": "plaid", "id": 6},
+        {"word": "twist", "id": 7},
+        {"word": "check", "id": 8},
+        {"word": "water", "id": 9},
+        {"word": "flame", "id": 10},
+        {"word": "earth", "id": 11},
+        {"word": "trail", "id": 12},
+        {"word": "eager", "id": 13},
+        {"word": "crash", "id": 14},
+        {"word": "numbs", "id": 15},
+        {"word": "squid", "id": 16},
+        {"word": "biker", "id": 17},
+        {"word": "wooly", "id": 18},
+        {"word": "tears", "id": 19},
+        {"word": "storm", "id": 20}
+    ]
+}
